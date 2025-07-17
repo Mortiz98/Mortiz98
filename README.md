@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+#### 🧠 About Me
   
 I’m a **Systems Engineering student**, **Data Analyst**, and **Python Developer** passionate about **Artificial Intelligence** and the development of innovative, real-world solutions.
 
@@ -32,7 +32,7 @@ I’m open to collaboration and opportunities where I can apply my technical ski
 
 ---
 
-### 💼 Tech Stack
+#### 💼 Tech Stack
 
 
 <p align="left">
