@@ -1,6 +1,9 @@
+<h1 align="center">Hi there 👋 I'm Mateo</h1>
 
-
-
+<p align="center">
+  Systems Engineering student · Data Analyst · Python Developer · AI enthusiast<br/>
+  Passionate about solving complex problems and creating innovative solutions using intelligent systems.
+</p>
 
 ---
 
