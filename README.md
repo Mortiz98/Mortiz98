@@ -8,7 +8,6 @@
 ---
 
 ### 🧠 About Me
-<h1 Hi there 👋 I'm Mateo /h1>
   
 I’m a **Systems Engineering student**, **Data Analyst**, and **Python Developer** passionate about **Artificial Intelligence** and the development of innovative, real-world solutions.
 
