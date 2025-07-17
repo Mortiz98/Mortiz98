@@ -1,10 +1,6 @@
 
-<h1 align="center">Hi there 👋 I'm Mateo</h1>
+<h1 Hi there 👋 I'm Mateo</h1>
 
-<p align="center">
-  Systems Engineering student · Data Analyst · Python Developer · AI enthusiast<br/>
-  Passionate about solving complex problems and creating innovative solutions using intelligent systems.
-</p>
 
 ---
 
@@ -62,16 +58,16 @@ I’m open to collaboration and opportunities where I can apply my technical ski
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mortiz98&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortiz98&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
 
 ### 📫 Contact
 
-- 📧 matiu9806@gmail.com
+- 📧 mortiz9806@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mateo-ortiz-casta%C3%B1o-230470227/)
 
 ---
