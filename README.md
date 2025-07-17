@@ -9,6 +9,7 @@
 
 ### 🧠 About Me
 <h1 Hi there 👋 I'm Mateo /h1>
+  
 I’m a **Systems Engineering student**, **Data Analyst**, and **Python Developer** passionate about **Artificial Intelligence** and the development of innovative, real-world solutions.
 
 I focus on solving complex problems and improving processes across different industries using **smart systems** that automate repetitive tasks and make real-time decisions with the help of AI.
